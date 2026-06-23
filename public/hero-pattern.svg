@@ -1,0 +1,35 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B6BCB" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="300" y1="210" x2="1340" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#paint0_linear)"/>
+  <circle cx="1280" cy="180" r="180" fill="#FF8A3D" fill-opacity="0.14"/>
+  <circle cx="210" cy="150" r="120" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M90 650C290 530 485 500 650 530C860 568 1010 450 1140 360C1240 290 1350 250 1520 260" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 690C350 600 520 590 690 618C864 648 1020 550 1140 480C1270 405 1380 360 1500 368" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="10" stroke-linecap="round"/>
+  <g transform="translate(920 238)">
+    <rect x="0" y="120" rx="34" width="360" height="180" fill="url(#paint1_linear)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="42" y="52" rx="28" width="236" height="160" fill="#FFFFFF" fill-opacity="0.16"/>
+    <rect x="60" y="82" rx="12" width="78" height="48" fill="#0B6BCB" fill-opacity="0.24"/>
+    <rect x="150" y="82" rx="12" width="78" height="48" fill="#0B6BCB" fill-opacity="0.24"/>
+    <rect x="60" y="140" rx="12" width="168" height="36" fill="#FFFFFF" fill-opacity="0.22"/>
+    <circle cx="102" cy="308" r="26" fill="#FFFFFF" fill-opacity="0.22"/>
+    <circle cx="258" cy="308" r="26" fill="#FFFFFF" fill-opacity="0.22"/>
+    <rect x="280" y="136" width="40" height="20" rx="10" fill="#FF8A3D" fill-opacity="0.78"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2">
+    <path d="M420 122h110"/>
+    <path d="M492 92v110"/>
+    <path d="M1260 600h140"/>
+    <path d="M1330 530v140"/>
+    <path d="M250 520h120"/>
+    <path d="M310 460v120"/>
+  </g>
+</svg>
